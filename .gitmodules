@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "omopr"]
+	path = omopr
+	url = https://github.com/cran/omopr
+	shallow = true
+	registered = true
+[submodule "smfsb"]
+	path = smfsb
+	url = https://github.com/cran/smfsb
+	shallow = true
+	registered = true
